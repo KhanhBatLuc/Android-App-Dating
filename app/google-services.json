@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "803993223561",
+    "project_id": "dating-abcd",
+    "storage_bucket": "dating-abcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803993223561:android:4e0ed5ed5f7401e518e158",
+        "android_client_info": {
+          "package_name": "com.example.dating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803993223561-fopa93rferj979bvsor8qb72bg5urq9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dating",
+            "certificate_hash": "f732b1adc55d20b6485013803b2ada51129c3b30"
+          }
+        },
+        {
+          "client_id": "803993223561-r7orsmqasjmp8foa5m9h2b3kd4u105so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlEhDgiaNwxeKqfQgdJR1bxvt0FUhFFGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803993223561-r7orsmqasjmp8foa5m9h2b3kd4u105so.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

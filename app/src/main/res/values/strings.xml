@@ -1,0 +1,53 @@
+<resources>
+
+    <string name="app_name">Dating</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Firebase database fields -->
+    <string name="dbfemale">NỮ</string>
+    <string name="dbmale">NAM</string>
+    <string name="title_activity_check_profile_before_matched">activity_checkProfileBeforeMatched
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="match_notification">Match Notification</string>
+    <string name="ok">ok</string>
+    <string name="permission_camera_rationale">Request for camera permission</string>
+    <string name="permission_contacts_rationale">GALLERY PERMISSION</string>
+    <string name="permision_available_camera">camera available</string>
+
+    <!-- introduction pictures-->
+    <integer-array name="img_id_arr">
+        <item>@drawable/photo1</item>
+        <item>@drawable/photo2</item>
+        <item>@drawable/photo3</item>
+        <item>@drawable/photo4</item>
+    </integer-array>
+    <string name="title_activity_un_matched">UnMatched_Activity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <string name="stringImageDescription">Mô tả ảnh</string>
+    <string name="title_activity_call">CallActivity</string>
+
+    <!--    <string name="name_main">%s, %d tuổi</string>-->
+    <!--    <string name="distance_main">Cách %s Km</string>-->
+    <!--    <plurals name="name_main">-->
+    <!--        <item quantity="name">%d Girl</item>-->
+    <!--        <item quantity="age">%d Girls</item>-->
+    <!--    </plurals>-->
+
+</resources>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/drawable-hdpi/custom_switch.xml" value="0.2203125" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/drawable-mdpi/custom_circle.xml" value="0.1125" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/drawable-v21/ic_menu_send.xml" value="0.1546875" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/drawable-v21/ic_menu_slideshow.xml" value="0.1546875" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/drawable/circle_background.xml" value="0.1546875" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/drawable/ic_main.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/drawable/ic_matched.xml" value="0.1546875" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/drawable/like_border.xml" value="0.1546875" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/drawable/round_button_with_border.xml" value="0.1546875" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/drawable/rounded_corner_layout.xml" value="0.1546875" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/drawable/seek_bar_thumb.xml" value="0.1546875" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/drawable/white_grey_border_bottom.xml" value="0.1125" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/layout/active_user_item.xml" value="1.0" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/layout/activity_btn_dislike.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/layout/activity_btn_like.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/layout/activity_edit_profile.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/layout/activity_introduction_main.xml" value="0.13768115942028986" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/layout/activity_matched.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/layout/activity_profile.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/layout/activity_profile_checkin_main.xml" value="0.15" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/layout/activity_profile_checkin_matched.xml" value="0.12" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/layout/activity_register_age.xml" value="0.15" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/layout/activity_register_gender.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/layout/activity_register_gender_prefection.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/layout/activity_register_hobby.xml" value="0.22" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/layout/activity_registerbasic_info.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/layout/activity_settings.xml" value="0.26390870185449355" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/layout/content_main.xml" value="1.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/layout/item.xml" value="0.18" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/layout/layout_top_navigation_back.xml" value="0.18" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/layout/layout_top_navigation_view.xml" value="0.2893258426966292" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/layout/matched_item.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/layout/matched_user_item.xml" value="0.22" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/layout/nav_header_main.xml" value="0.9" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/menu/activity_main_drawer.xml" value="0.13854166666666667" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/menu/main.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/menu/top_navigation_toolbar.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1125" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1546875" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/mipmap-anydpi-v26/ic_start.xml" value="0.2203125" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Dating/app/src/main/res/mipmap-anydpi-v26/ic_start_round.xml" value="0.1125" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/drawable-hdpi/custom_switch.xml" value="0.16302083333333334" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/drawable-hdpi/ic_baseline_call_24.xml" value="0.22760416666666666" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/drawable-hdpi/ic_baseline_mic_24.xml" value="0.22760416666666666" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/drawable-hdpi/ic_baseline_mic_off_24.xml" value="0.1" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/drawable-hdpi/ic_baseline_videocam_24.xml" value="0.22760416666666666" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/drawable-hdpi/ic_baseline_videocam_off_24.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/drawable-v21/ic_arrow_left.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/drawable-v21/rounded_rectangle_green.xml" value="0.1359375" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/drawable-v21/rounded_rectangle_orange.xml" value="0.28541666666666665" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/drawable/circle_background.xml" value="0.1359375" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/drawable/edit_text_focused_bg.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/drawable/ic_check_select.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/drawable/ic_start_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/drawable/round_button_with_border.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/drawable/rounded_corner_layout.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/drawable/seek_bar_thumb.xml" value="0.16302083333333334" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/drawable/white_grey_border_bottom.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/drawable/white_rounded_button.xml" value="0.19479166666666667" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/active_user_item.xml" value="0.4" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/activity_btn_dislike.xml" value="0.1" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/activity_btn_like.xml" value="0.146875" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/activity_call.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/activity_chat.xml" value="0.176" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/activity_edit_profile.xml" value="0.24094202898550723" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/activity_introduction_main.xml" value="0.16822916666666668" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/activity_main.xml" value="0.15934065934065933" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/activity_matched.xml" value="0.4" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/activity_notify.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/activity_profile.xml" value="0.264" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/activity_profile_checkin_main.xml" value="0.264" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/activity_profile_checkin_matched.xml" value="0.264" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/activity_register.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/activity_register_age.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/activity_register_basic_info.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/activity_register_gender.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/activity_register_gender_prefection.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/activity_register_hobby.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/activity_registerbasic_info.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/activity_room.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/activity_rtc.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/activity_search_user.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/activity_settings.xml" value="0.136" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/activity_splash.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/activity_un_matched.xml" value="0.16822916666666668" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/app_bar_main.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/content_call.xml" value="0.12" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/content_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/custom_row_chat.xml" value="0.24094202898550723" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/custom_row_chat_server_message.xml" value="0.24094202898550723" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/custom_row_item.xml" value="0.24094202898550723" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/custom_row_message_received.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/custom_row_message_send.xml" value="0.4" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/custom_row_user.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/fragment_first.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/item.xml" value="0.1" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/item_notify.xml" value="0.3245382585751979" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/layout_top_navigation_back.xml" value="0.18840579710144928" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/layout_top_navigation_view.xml" value="0.12635869565217392" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/main.xml" value="0.1296875" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/match_user_item.xml" value="0.176" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/matched_user_item.xml" value="0.24094202898550723" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/layout/room_item.xml" value="0.2" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/menu/top_navigation_toolbar.xml" value="0.264" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/mipmap-anydpi-v26/ic_start.xml" value="0.2703125" />
+        <entry key="..\:/Users/HP/Downloads/Dating/app/src/main/res/mipmap-anydpi-v26/ic_start_round.xml" value="0.2703125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
